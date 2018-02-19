@@ -1,0 +1,6 @@
+# Rule 1
+User-agent: Googlebot
+Allow: /
+Disallow: /*.html$
+
+Sitemap: http://aminhjz.com/sitemap.xml
