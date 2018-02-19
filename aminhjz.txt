@@ -1,5 +1,6 @@
 <span id="a">root@aminhjz</span>:<span id="b">~</span><span id="c">$</span>  cat aminhjz.txt<br/><br/>
-Hi, I am Amin Hejazi.
+Hi, 
+You have reached my website, here are some links and information about me.
 
 Email: me@aminhjz.com
 </br>
