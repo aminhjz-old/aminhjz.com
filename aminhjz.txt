@@ -1,8 +1,7 @@
 <span id="a">root@aminhjz</span>:<span id="b">~</span><span id="c">$</span>  cat aminhjz.txt<br/><br/>
 Hi, I am Amin Hejazi.
 
-Email: amin.hedjazi@gmail.com
-Phone: +31684472350
+Email: me@aminhjz.com
 </br>
 <a href="https://docs.google.com/document/d/1eKKlyfyFdrKiyK1OPOQZfuSZjm3b1_ssAu_yOMQteLI/pub"> CV </a>
 <a href="https://nl.linkedin.com/in/amin-hejazi-819610b"> LinkedIn </a>
